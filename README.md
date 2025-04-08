@@ -2,10 +2,10 @@
 
 ## About Me
 
-Hi there👋, my name is Anouck Fierens, I'm a Moderen workplace consultant for wortell belgium. My main focus is SharePoint, PowerApps and PowerAutomate.
+Hi there👋, my name is Anouck Fierens, I'm a Moderen workplace consultant in belgium. My main focus is SharePoint, PowerApps and PowerAutomate.
 
 ## Blogs and writings
-I'm keeping a blog about this subjects, you can read my lates posts on www.anouckfierens.com
+I'm keeping a blog about this subjects, you can read my lates posts on www.365-anouck.be
 
 ## Get in contact
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
